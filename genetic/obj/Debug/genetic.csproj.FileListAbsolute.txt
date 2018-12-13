@@ -1,0 +1,36 @@
+E:\Desktop\genetic\genetic\genetic\bin\Debug\genetic.exe.config
+E:\Desktop\genetic\genetic\genetic\bin\Debug\genetic.exe
+E:\Desktop\genetic\genetic\genetic\bin\Debug\genetic.pdb
+E:\Desktop\genetic\genetic\genetic\obj\Debug\genetic.csprojResolveAssemblyReference.cache
+E:\Desktop\genetic\genetic\genetic\obj\Debug\genetic.Form1.resources
+E:\Desktop\genetic\genetic\genetic\obj\Debug\genetic.Properties.Resources.resources
+E:\Desktop\genetic\genetic\genetic\obj\Debug\genetic.csproj.GenerateResource.Cache
+E:\Desktop\genetic\genetic\genetic\obj\Debug\genetic.exe
+E:\Desktop\genetic\genetic\genetic\obj\Debug\genetic.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\Старшекурсники\Дороганов\genetic\genetic\genetic\genetic\bin\Debug\genetic.exe.config
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\Старшекурсники\Дороганов\genetic\genetic\genetic\genetic\obj\Debug\genetic.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\Старшекурсники\Дороганов\genetic\genetic\genetic\genetic\obj\Debug\genetic.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\Старшекурсники\Дороганов\genetic\genetic\genetic\genetic\bin\Debug\genetic.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\Старшекурсники\Дороганов\genetic\genetic\genetic\genetic\bin\Debug\genetic.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\Старшекурсники\Дороганов\genetic\genetic\genetic\genetic\obj\Debug\genetic.csprojResolveAssemblyReference.cache
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\Старшекурсники\Дороганов\genetic\genetic\genetic\genetic\obj\Debug\genetic.Form1.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\Старшекурсники\Дороганов\genetic\genetic\genetic\genetic\obj\Debug\genetic.Properties.Resources.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\Старшекурсники\Дороганов\genetic\genetic\genetic\genetic\obj\Debug\genetic.csproj.GenerateResource.Cache
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\genetic\genetic\bin\Debug\genetic.exe.config
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\genetic\genetic\obj\Debug\genetic.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\genetic\genetic\obj\Debug\genetic.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\genetic\genetic\bin\Debug\genetic.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\genetic\genetic\bin\Debug\genetic.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\genetic\genetic\obj\Debug\genetic.csprojResolveAssemblyReference.cache
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\genetic\genetic\obj\Debug\genetic.Form1.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\genetic\genetic\obj\Debug\genetic.Properties.Resources.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\genetic\genetic\obj\Debug\genetic.csproj.GenerateResource.Cache
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 2\genetic\bin\Debug\genetic.exe.config
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 2\genetic\obj\Debug\genetic.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 2\genetic\obj\Debug\genetic.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 2\genetic\bin\Debug\genetic.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 2\genetic\bin\Debug\genetic.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 2\genetic\obj\Debug\genetic.csprojResolveAssemblyReference.cache
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 2\genetic\obj\Debug\genetic.Form1.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 2\genetic\obj\Debug\genetic.Properties.Resources.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 2\genetic\obj\Debug\genetic.csproj.GenerateResource.Cache
